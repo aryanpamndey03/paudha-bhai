@@ -3,7 +3,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/95ef61d6-907d-4802-8ae0-641fe04b1e4f
+**URL**: https://paudhabhai.vercel.app/
 
 ## How can I edit this code?
 
@@ -11,7 +11,7 @@ There are several ways of editing your application.
 
 **Use the Web Editor**
 
-Simply visit the [Web Project Editor](https://lovable.dev/projects/95ef61d6-907d-4802-8ae0-641fe04b1e4f) and start prompting.
+Simply visit the [Web Project Editor](https://paudhabhai.vercel.app/) and start prompting.
 
 Changes made via the editor will be committed automatically to this repo.
 
@@ -71,4 +71,4 @@ Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
