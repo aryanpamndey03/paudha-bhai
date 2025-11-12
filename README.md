@@ -11,7 +11,7 @@ There are several ways of editing your application.
 
 **Use the Web Editor**
 
-Simply visit the [Web Project Editor](https://paudhabhai.vercel.app/) and start prompting.
+Simply visit the [Web Project Editor](https://paudha-bhaipbl.vercel.app/) and start prompting.
 
 Changes made via the editor will be committed automatically to this repo.
 
